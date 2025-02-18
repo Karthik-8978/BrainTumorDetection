@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![](https://badgen.net/badge/release/1.2.0/green?icon=github)](https://github.com/giuseppebrb/BrainTumorDetection/releases) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giuseppebrb/BrainTumorDetection/blob/main/Brain_Tumor_Detector.ipynb)
 
-Co-author: [@TomMenga](https://github.com/TomMenga)
+Co-author: [@TomMenga](https://github.com/theagentvikram)
 
 ## About
 
